@@ -92,7 +92,7 @@ This project demonstrates the ability to:
 - `CPI INFLATION.xlsx` → Data analysis & calculations  
 - `India_CPI_Inflation_Presentation.pptx` → Final insights presentation  
 - `Problem_Statement.txt` → Official business case  
-- Dashboard images (optional screenshots)
+   CPI INFLATION dataset
 
 ---
 
