@@ -5,7 +5,7 @@ Analyzed India’s CPI data to identify key inflation drivers and trends (2017�
 ## 📌 Project Objective
 This project analyzes India's Consumer Price Index (CPI) data to identify key inflation drivers, study long-term trends, and evaluate the impact of major events such as COVID-19 and global crude oil price fluctuations on inflation.
 
-The analysis was conducted as part of a case study for the National Statistical Office.
+.
 
 ---
 
@@ -97,7 +97,7 @@ This project demonstrates the ability to:
 ---
 
 ## 👤 Author
-**Akh ag**  
+Akhil.AG   
 MBA (operations and marketing) | Data Analytics  
 Aspiring data Analyst   
 Skills: Excel, SQL, Power BI, Data Analysis, Business Strategy
